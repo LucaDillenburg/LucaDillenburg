@@ -9,7 +9,9 @@
 - 💬 Ask me about entrepreneurship, Flutter and GoLang
 - ⚡ Fun fact: I love extreme sports
 
-## :fireworks: Works I'm most proud of
+---
+
+### :fireworks: Works I'm most proud of
 
 <details>
   <summary>:gun: <b><i>2D Engine for Fire Games</b></i>: developed from scratch and supports many geometric shapes</summary>
@@ -22,15 +24,28 @@
 </details>
 
 <details>
-  <summary>:computer: <b><i>Open Computer</b></i> (WIP): open-source computer with its own circuit, machine language and high-level language</summary>
+  <summary>:computer: <b><i>Open Computer</b></i> (WIP) - an Open-Source computer</summary>
+
+[<img alt="Open Machine" align="left" styles="padding-left: 50px" height="130px" src="https://raw.githubusercontent.com/LucaDillenburg/LucaDillenburg/master/media/openmachine.png"/>][openmachine-organization]
 
 #### Components
-- Machine Language Assembler
-- High-Level Language Compiler
-- Circuit
+  - Machine Language Assembler
+  - High-Level Language Compiler
+  - Circuit
 
 #### Check out the Organization [here][openmachine-organization]
-[<img alt="Open Machine" height="130px" src="https://raw.githubusercontent.com/LucaDillenburg/LucaDillenburg/master/media/openmachine.png"/>][openmachine-organization]
+
+</details>
+
+<details>
+  <summary>🎨 <b><i>Colorblind Toolset</b></i> </summary>
+
+#### Features
+- Name the color
+- Color blind friendly maps
+- Super color differentiation
+
+#### ⚠️ This code is not public
 
 </details>
 
@@ -42,6 +57,8 @@
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@luca.assumpcao.dillenburg/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@luca.assumpcao.dillenburg/0" alt="Recent Article 0"></a>
 
 - *Check out all articles [here](https://medium.com/@luca.assumpcao.dillenburg)*
+
+---
 
 ### 🧭 Languages and Tools
 
@@ -56,6 +73,8 @@
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
 <br />
+
+---
 
 ### Connect with me:
 
