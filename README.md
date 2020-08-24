@@ -2,7 +2,7 @@
 
 ## I'm a Entrepreneur and Full-Stack Developer!
 
-- 🔭 I’m currently working on a [Open-Source Computer][openmachine-organization]!
+- 🔭 I’m currently working on an [Open-Source Computer][openmachine-organization] with its own language, circuits and etc!
 - 🌱 I’m currently learning GoLang, Flutter and Design
 - 👯 I’m looking to collaborate with other entrepreneurs and fullstack developers
 - 🥅 2020 Goals: Create a Startup and build my own computer from scratch
