@@ -86,7 +86,7 @@
   <img align="left" alt="Luca Dillenburg | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-<a target="_blank" href="mailto:luca.assumpcao.dillenburg@gmail.com">
+<a target="_blank" href="mailto: luca.assumpcao.dillenburg@gmail.com">
   <img align="left" alt="luca.assumpcao.dillenburg@gmail.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
