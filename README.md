@@ -78,9 +78,17 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Luca Dillenburg | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Luca Dillenburg | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="luca.assumpcao.dillenburg@gmail.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+<a target="_blank" href="https://linkedin.com/in/luca-dillenburg">
+  <img align="left" alt="Luca Dillenburg | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+<a target="_blank" href="https://instagram.com/LucaDillenburg">
+  <img align="left" alt="Luca Dillenburg | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
+<a target="_blank" href="mailto:luca.assumpcao.dillenburg@gmail.com">
+  <img align="left" alt="luca.assumpcao.dillenburg@gmail.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 
 <br/>
 <br/>
@@ -96,6 +104,3 @@
 </details>
 
 [openmachine-organization]: https://github.com/Open-Machine
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[instagram]: https://instagram.com/LucaDillenburg
-[gmail]: mailto:luca.assumpcao.dillenburg@gmail.com
