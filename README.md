@@ -14,16 +14,6 @@
 ### :fireworks: Works I'm most proud of
 
 <details>
-  <summary>:gun: <b><i>2D Engine for Fire Games</b></i>: developed from scratch and supports many geometric shapes</summary>
-
-***Check out the Repository [here][openmachine-organization]***
-
-### Example of game using the engine
-[<img alt="2D Engine for Fire Games" src="https://raw.githubusercontent.com/LucaDillenburg/Engine-2D-Jogo-de-Tiro/master/exemplo-jogo.gif"/>][openmachine-organization]
-
-</details>
-
-<details>
   <summary>:computer: <b><i>Open Computer</b></i> (WIP) - an Open-Source computer</summary>
 
 [<img alt="Open Machine" align="left" styles="padding-left: 50px" height="130px" src="https://raw.githubusercontent.com/LucaDillenburg/LucaDillenburg/master/media/openmachine.png"/>][openmachine-organization]
@@ -46,6 +36,16 @@
 - Super color differentiation
 
 #### ⚠️ This code is not public
+
+</details>
+
+<details>
+  <summary>:gun: <b><i>2D Engine for Fire Games</b></i>: developed from scratch and supports many geometric shapes</summary>
+
+***Check out the Repository [here][openmachine-organization]***
+
+### Example of game using the engine
+[<img alt="2D Engine for Fire Games" src="https://raw.githubusercontent.com/LucaDillenburg/Engine-2D-Jogo-de-Tiro/master/exemplo-jogo.gif"/>][openmachine-organization]
 
 </details>
 
