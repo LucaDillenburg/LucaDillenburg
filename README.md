@@ -9,9 +9,7 @@
 - 💬 Ask me about entrepreneurship, Flutter and GoLang
 - ⚡ Fun fact: I love extreme sports
 
-<br />
-
-## :fireworks: Proudest Works
+## :fireworks: Works I'm most proud of
 
 <details>
   <summary>:gun: <b><i>2D Engine for Fire Games</b></i>: developed from scratch and supports many geometric shapes</summary>
@@ -36,16 +34,12 @@
 
 </details>
 
-<br />
-
 ## 📕 Articles
 - *Latest Article*
 
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@luca.assumpcao.dillenburg/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@luca.assumpcao.dillenburg/0" alt="Recent Article 0"></a>
 
 - *Check out all articles [here](https://medium.com/@luca.assumpcao.dillenburg)*
-
-<br />
 
 ## 🧭 Languages and Tools
 
@@ -59,8 +53,6 @@
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
-<br/>
-
 <br />
 
 ## Connect with me:
@@ -69,6 +61,7 @@
 [<img align="left" alt="Luca Dillenburg | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="luca.assumpcao.dillenburg@gmail.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
+<br/>
 <br/>
 
 ---
