@@ -34,14 +34,16 @@
 
 </details>
 
-## 📕 Articles
+---
+
+### 📕 Articles
 - *Latest Article*
 
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@luca.assumpcao.dillenburg/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@luca.assumpcao.dillenburg/0" alt="Recent Article 0"></a>
 
 - *Check out all articles [here](https://medium.com/@luca.assumpcao.dillenburg)*
 
-## 🧭 Languages and Tools
+### 🧭 Languages and Tools
 
 <img align="left" alt="GoLang" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
 <img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
@@ -55,7 +57,7 @@
 
 <br />
 
-## Connect with me:
+### Connect with me:
 
 [<img align="left" alt="Luca Dillenburg | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Luca Dillenburg | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
