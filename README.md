@@ -14,7 +14,7 @@
 ### :fireworks: Works I'm most proud of
 
 <details>
-  <summary>:computer: <b><i>Open Computer</b></i> (WIP) - an Open-Source computer</summary>
+  <summary>:computer: <b><i>Open Machine</b></i> (WIP) - an Open-Source computer</summary>
 
 [<img alt="Open Machine" align="left" styles="padding-left: 50px" height="130px" src="https://raw.githubusercontent.com/LucaDillenburg/LucaDillenburg/master/media/openmachine.png"/>][openmachine-organization]
 
