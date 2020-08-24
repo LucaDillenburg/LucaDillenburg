@@ -14,20 +14,6 @@
 ### :fireworks: Works I'm most proud of
 
 <details>
-  <summary>:computer: <b><i>Open Machine</b></i> (WIP) - an Open-Source computer</summary>
-
-[<img alt="Open Machine" align="left" styles="padding-left: 50px" height="130px" src="https://raw.githubusercontent.com/LucaDillenburg/LucaDillenburg/master/media/openmachine.png"/>][openmachine-organization]
-
-#### Components
-  - Machine Language Assembler
-  - High-Level Language Compiler
-  - Circuit
-
-#### Check out the Organization [here][openmachine-organization]
-
-</details>
-
-<details>
   <summary>🎨 <b><i>Colorblind Toolset</b></i> </summary>
 
 #### Features
@@ -46,6 +32,20 @@
 
 ### Example of game using the engine
 [<img alt="2D Engine for Fire Games" src="https://raw.githubusercontent.com/LucaDillenburg/Engine-2D-Jogo-de-Tiro/master/exemplo-jogo.gif"/>][openmachine-organization]
+
+</details>
+
+<details>
+  <summary>:computer: <b><i>Open Machine</b></i> (WIP) - an Open-Source computer</summary>
+
+[<img alt="Open Machine" align="left" styles="padding-left: 50px" height="130px" src="https://raw.githubusercontent.com/LucaDillenburg/LucaDillenburg/master/media/openmachine.png"/>][openmachine-organization]
+
+#### Components
+  - Machine Language Assembler
+  - High-Level Language Compiler
+  - Circuit
+
+#### Check out the Organization [here][openmachine-organization]
 
 </details>
 
