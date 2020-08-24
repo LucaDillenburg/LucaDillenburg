@@ -54,7 +54,7 @@
 ### 📕 Articles
 - *Latest Article*
 
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@luca.assumpcao.dillenburg/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@luca.assumpcao.dillenburg/0" alt="Recent Article 0"></a>
+  <a href="https://github-readme-medium-recent-article.vercel.app/medium/@luca.assumpcao.dillenburg/0" target="_blank"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@luca.assumpcao.dillenburg/0" alt="Recent Article 0"></a>
 
 - *Check out all articles [here](https://medium.com/@luca.assumpcao.dillenburg)*
 
