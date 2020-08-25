@@ -1,4 +1,4 @@
-### Hi there, I'm Luca Dillenburg 👋
+### Hi there, I'm Luca Dillenburg <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## I'm a Entrepreneur and Full-Stack Developer!
 
@@ -94,6 +94,15 @@
 <br/>
 
 ---
+
+<details>
+  <summary>⏱️ Weekly Time Spent</summary>
+
+  📊 **This week I spent my time on**
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+  <br/>
+</details>
 
 <details>
   <summary>:zap: Github Stats</summary>
