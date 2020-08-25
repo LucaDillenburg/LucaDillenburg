@@ -98,7 +98,7 @@
 <details>
   <summary>⏱️ Weekly Time Spent</summary>
 
-  📊 **This week I spent my time on**
+  ### This week I spent my time on:
   <!--START_SECTION:waka-->
   <!--END_SECTION:waka-->
   <br/>
