@@ -101,7 +101,7 @@
   ### This week I spent my time on:
   <!--START_SECTION:waka-->
 ```text
-Week: 17 August, 2020 - 24 August, 2020
+Week: 18 August, 2020 - 25 August, 2020
 
 Go         20 hrs 43 mins  ███████████████████▓░░░░░   78.50 % 
 Markdown   3 hrs 52 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.68 % 
