@@ -11,7 +11,7 @@
 
 ---
 
-# :fireworks: Works I'm most proud of
+## :fireworks: Works I'm most proud of
 
 <details>
   <summary>🎨 <b><i>Colorblind Toolset</b></i> </summary>
@@ -111,8 +111,6 @@ Engine para for 2D top-down gun games. It supports colisions between any polygon
 ## 💡 The Idea
 
 The idea came from an [article](https://medium.com/@luca.assumpcao.dillenburg/programming-tips-from-a-not-yet-experienced-programmer-754623ce28ae) I wrote about some tips for developers:
-
-[<img alt="Open Machine" align="left" height="200" src="https://raw.githubusercontent.com/LucaDillenburg/LucaDillenburg/master/media/openmachine.png">](https://github.com/Open-Machine/Organization-README)
 
 > And a message for those (myself included) that still want to build apps entirely from scratch because "That's the only way it will feel my doing only":
 > 
