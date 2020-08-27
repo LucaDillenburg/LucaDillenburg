@@ -101,13 +101,13 @@
   ### This week I spent my time on:
   <!--START_SECTION:waka-->
 ```text
-Week: 18 August, 2020 - 25 August, 2020
+Week: 19 August, 2020 - 26 August, 2020
 
-Go         20 hrs 43 mins  ███████████████████▓░░░░░   78.50 % 
-Markdown   3 hrs 52 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.68 % 
-JSON       37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-SAS        25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
-NASM       21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+Go         14 hrs 15 mins  ██████████████▒░░░░░░░░░░   57.50 % 
+Markdown   6 hrs 37 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.72 % 
+Scala      1 hr 3 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+XML        49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+JSON       40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 ```
 <!--END_SECTION:waka-->
   <br/>
