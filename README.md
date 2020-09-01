@@ -195,7 +195,7 @@ Click [here](https://github.com/Open-Machine/Organization-README) to learn more.
   ### This week I spent my time on:
   <!--START_SECTION:waka-->
 ```text
-Week: 23 August, 2020 - 30 August, 2020
+Week: 24 August, 2020 - 31 August, 2020
 
 Go           16 hrs 51 mins  ███████████▒░░░░░░░░░░░░░   45.26 % 
 Markdown     11 hrs 26 mins  ███████▓░░░░░░░░░░░░░░░░░   30.71 % 
