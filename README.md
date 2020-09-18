@@ -1,4 +1,4 @@
-### Hi there, I'm Luca Dillenburg <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/intent/follow?screen_name=lucadillenburg"><img src="https://img.shields.io/twitter/follow/lucadillenburg?style=social&logo=twitter" alt="follow on Twitter"></a>&nbsp;&nbsp;<a href="https://github.com/LucaDillenburg/"><img src="https://img.shields.io/github/followers/lucadillenburg?style=social&logo=github" alt="follow on Github"></a>
+### Hi there, I'm Luca Dillenburg <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <a href="https://twitter.com/intent/follow?screen_name=lucadillenburg"><img align="right" src="https://img.shields.io/twitter/follow/lucadillenburg?style=social&logo=twitter" alt="follow on Twitter"></a> <a href="https://github.com/LucaDillenburg/"><img align="right" src="https://img.shields.io/github/followers/lucadillenburg?style=social&logo=github" alt="follow on Github"></a>
 
 ## I'm a Full-Stack developer and Entrepreneur!
 
