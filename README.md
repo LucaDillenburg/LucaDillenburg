@@ -195,9 +195,9 @@ Click [here](https://github.com/Open-Machine/Organization-README) to learn more.
   ### This week I spent my time on:
   <!--START_SECTION:waka-->
 ```text
-Week: 21 October, 2020 - 28 October, 2020
+Week: 22 October, 2020 - 29 October, 2020
 
-HTML   24 mins         █████████████████████████   100.00 % 
+
 ```
 <!--END_SECTION:waka-->
   <br/>
