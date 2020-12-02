@@ -195,13 +195,13 @@ Click [here](https://github.com/Open-Machine/Organization-README) to learn more.
   ### This week I spent my time on:
   <!--START_SECTION:waka-->
 ```text
-Week: 23 November, 2020 - 30 November, 2020
+Week: 24 November, 2020 - 01 December, 2020
 
-C          11 hrs 11 mins  ███████████████░░░░░░░░░░   59.58 % 
-Markdown   2 hrs 39 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-Dart       2 hrs 22 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
-Other      1 hr 1 min      █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
-YAML       48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+C          8 hrs 44 mins   ███████████░░░░░░░░░░░░░░   44.12 % 
+Markdown   3 hrs 57 mins   █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Dart       2 hrs 22 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
+Other      1 hr 24 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
+XML        1 hr 22 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
 ```
 <!--END_SECTION:waka-->
   <br/>
