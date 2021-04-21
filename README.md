@@ -195,13 +195,13 @@ Click [here](https://github.com/Open-Machine/Organization-README) to learn more.
   ### This week I spent my time on:
   <!--START_SECTION:waka-->
 ```text
-Week: 12 April, 2021 - 19 April, 2021
+Week: 13 April, 2021 - 20 April, 2021
 
-Dart         11 hrs 45 mins  █████████████████░░░░░░░░   67.67 % 
-TypeScript   3 hrs 13 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.57 % 
-Java         1 hr 43 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
-Text         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
-YAML         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+Dart         10 hrs          ███████████████░░░░░░░░░░   59.91 % 
+TypeScript   3 hrs 13 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.31 % 
+Java         1 hr 51 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+JSON         26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+Python       20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
 ```
 <!--END_SECTION:waka-->
   <br/>
