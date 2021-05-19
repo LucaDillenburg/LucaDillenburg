@@ -2,7 +2,7 @@
 
 ## I'm a Full-Stack developer and Entrepreneur!
 
-- 🥅 2021 Goals: Create the best delivery app to eat vegan or vegetarian food
+- 🥅 2021 Goal: Create the best delivery app to eat vegan or vegetarian food
 - 🌱 I’m currently learning Design, Management and Entrepreneurship
 - 👯 I’m looking to collaborate with other entrepreneurs and fullstack devs
 - 💬 Ask me about entrepreneurship, Flutter, and GoLang
