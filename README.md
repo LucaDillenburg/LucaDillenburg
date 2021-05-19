@@ -153,9 +153,8 @@ Click [here](https://github.com/Open-Machine/Organization-README) to learn more.
 ### 🧭 Preffered Languages and Tools
 
 <img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
-<img align="left" alt="GoLang" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
+<img align="left" alt="GoLang" width="26px" src="https://raw.githubusercontent.com/LucaDillenburg/LucaDillenburg/master/media/golang.png" />
 <img align="left" alt="Spark" width="26px" src="https://raw.githubusercontent.com/LucaDillenburg/LucaDillenburg/master/media/spark.png" />
-<img align="left" alt="Spark" width="26px" src="https://raw.githubusercontent.com/LucaDillenburg/LucaDillenburg/master/media/golang.png" />
 <img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 <img align="left" alt="Figma" width="26px" src="https://raw.githubusercontent.com/LucaDillenburg/LucaDillenburg/master/media/figma.png" />
 
