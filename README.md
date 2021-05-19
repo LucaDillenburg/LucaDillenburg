@@ -14,8 +14,6 @@
 
 - :green_heart: ***Legumo***: the delivery app to eat vegan or vegetarian food
 
-- :computer: ***[Open-Source Computer](https://github.com/Open-Machine/Organization-README)***
-
 <details>
   <summary>🎨 <b><i>Colorblind Toolset</b></i> </summary>
 
