@@ -150,18 +150,15 @@ Click [here](https://github.com/Open-Machine/Organization-README) to learn more.
 
 ---
 
-### 🧭 Languages and Tools
+### 🧭 Preffered Languages and Tools
 
-<img align="left" alt="GoLang" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
 <img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
-<img align="left" alt="Figma" width="26px" src="https://raw.githubusercontent.com/LucaDillenburg/LucaDillenburg/master/media/figma.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
+<img align="left" alt="GoLang" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
 <img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="Figma" width="26px" src="https://raw.githubusercontent.com/LucaDillenburg/LucaDillenburg/master/media/figma.png" />
+
+<br /> <br />
+<i>Also some experience with: Hadoop Spark, MySQL, MongoDB, Nodejs and Nextjs.</i>
 
 <br />
 
@@ -215,5 +212,3 @@ Markdown     34 mins         ▓░░░░░░░░░░░░░░░░
 
   <br/>
 </details>
-
-[openmachine-organization]: https://github.com/Open-Machine
