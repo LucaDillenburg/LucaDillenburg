@@ -2,16 +2,19 @@
 
 ## I'm a Full-Stack developer and Entrepreneur!
 
-- 🔭 I’m currently working on an [Open-Source Computer](https://github.com/Open-Machine/Organization-README)
-- 🌱 I’m currently learning GoLang, Flutter, and entrepreneurship
+- 🥅 2021 Goals: Create the best delivery app to eat vegan or vegetarian food
+- 🌱 I’m currently learning Design, Management and Entrepreneurship
 - 👯 I’m looking to collaborate with other entrepreneurs and fullstack devs
-- 🥅 2020 Goals: Create a Startup and build my own custom computer only using logic gates
 - 💬 Ask me about entrepreneurship, Flutter, and GoLang
-- ⚡ Fun fact: I love extreme sports
+- ⚡ Fun facts: I believe in Christ, I am vegetarian and I love extreme sports
 
 ---
 
 ## :fireworks: Works I'm most proud of
+
+- :green_heart: ***Legumo***: the delivery app to eat vegan or vegetarian food
+
+- :computer: ***[Open-Source Computer](https://github.com/Open-Machine/Organization-README)***
 
 <details>
   <summary>🎨 <b><i>Colorblind Toolset</b></i> </summary>
