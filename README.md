@@ -2,17 +2,24 @@
 
 ## I'm a Full-Stack developer and Entrepreneur!
 
-- 🥅 2021 Goal: Create the best delivery app to eat vegan or vegetarian food
+- 🥅 2021 Goals:
+  - Create the best delivery app to eat vegan or vegetarian food
+  - Learn to skydive
 - 🌱 I’m currently learning Design, Management and Entrepreneurship
 - 👯 I’m looking to collaborate with other entrepreneurs and fullstack devs
-- 💬 Ask me about entrepreneurship, Flutter, and GoLang
+- 💬 Ask me about entrepreneurship, Flutter, Firebase, and GoLang
 - ⚡ Fun facts: I believe in Christ, I am vegetarian and I love extreme sports
 
 ---
 
 ## :fireworks: Works I'm most proud of
 
-- :green_heart: ***Legumo***: the delivery app to eat vegan or vegetarian food
+<details>
+  <summary>:green_heart: <b><i>Legumo</b></i>: the delivery app to eat vegan or vegetarian food </summary>
+  
+  - Instagram: [@legumo.app](https://instagram.com/legumo.app)
+  - Site: [https://legumo.com.br](https://legumo.com.br)
+</details>
 
 <details>
   <summary>🎨 <b><i>Colorblind Toolset</b></i> </summary>
