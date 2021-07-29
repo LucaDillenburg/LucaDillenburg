@@ -200,7 +200,7 @@ Click [here](https://github.com/Open-Machine/Organization-README) to learn more.
   ### This week I spent my time on:
   <!--START_SECTION:waka-->
 ```text
-Week: 21 July, 2021 - 27 July, 2021
+Week: 22 July, 2021 - 28 July, 2021
 
 TeX          2 hrs 48 mins   ███████▒░░░░░░░░░░░░░░░░░   29.40 % 
 JavaScript   2 hrs 1 min     █████▒░░░░░░░░░░░░░░░░░░░   21.17 % 
