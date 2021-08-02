@@ -200,12 +200,11 @@ Click [here](https://github.com/Open-Machine/Organization-README) to learn more.
   ### This week I spent my time on:
   <!--START_SECTION:waka-->
 ```text
-Week: 25 July, 2021 - 31 July, 2021
+Week: 26 July, 2021 - 01 August, 2021
 
-Python     39 mins         ███████████▓░░░░░░░░░░░░░   46.97 % 
-TeX        26 mins         ████████░░░░░░░░░░░░░░░░░   32.05 % 
-Markdown   15 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.09 % 
-JSON       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+TeX        26 mins         ███████████████░░░░░░░░░░   60.44 % 
+Markdown   15 mins         ████████▓░░░░░░░░░░░░░░░░   34.11 % 
+JSON       1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
 ```
 <!--END_SECTION:waka-->
   <br/>
