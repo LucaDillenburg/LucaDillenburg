@@ -200,7 +200,7 @@ Click [here](https://github.com/Open-Machine/Organization-README) to learn more.
   ### This week I spent my time on:
   <!--START_SECTION:waka-->
 ```text
-Week: 23 August, 2021 - 29 August, 2021
+Week: 24 August, 2021 - 30 August, 2021
 
 Dart         24 hrs 6 mins   ██████████████████████▒░░   89.00 % 
 TeX          2 hrs 38 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
