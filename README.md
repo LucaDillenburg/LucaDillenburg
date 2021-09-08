@@ -4,7 +4,7 @@
 
 - 🥅 2021 Goals:
   - Create the best delivery app to eat vegan or vegetarian food
-  - Learn to skydive
+  - [x] Learn to skydive
 - 🌱 I’m currently learning Design, Management and Entrepreneurship
 - 👯 I’m looking to collaborate with other entrepreneurs and fullstack devs
 - 💬 Ask me about entrepreneurship, Flutter, Firebase, and GoLang
