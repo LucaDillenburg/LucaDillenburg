@@ -200,7 +200,7 @@ Click [here](https://github.com/Open-Machine/Organization-README) to learn more.
   ### This week I spent my time on:
   <!--START_SECTION:waka-->
 ```text
-Week: 28 January, 2022 - 03 February, 2022
+Week: 29 January, 2022 - 04 February, 2022
 
 Dart         27 hrs 15 mins  ████████████████▒░░░░░░░░   64.94 % 
 TypeScript   10 hrs 15 mins  ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
