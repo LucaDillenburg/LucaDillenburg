@@ -201,14 +201,13 @@ Click [here](https://github.com/Open-Machine/Organization-README) to learn more.
   <!--START_SECTION:waka-->
 
 ```text
-From: 29 March 2022 - To: 05 April 2022
+From: 30 March 2022 - To: 06 April 2022
 
-TypeScript   5 hrs 41 mins   █████████▓░░░░░░░░░░░░░░░   39.30 %
-C            2 hrs 49 mins   █████░░░░░░░░░░░░░░░░░░░░   19.51 %
-JSON         1 hr 58 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.61 %
-Python       1 hr 30 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.36 %
-Text         1 hr 5 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 %
-JavaScript   1 hr 2 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.15 %
+TypeScript   8 hrs 41 mins   ████████████▓░░░░░░░░░░░░   51.18 %
+C            2 hrs 49 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.63 %
+JSON         2 hrs 21 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.92 %
+Python       1 hr 30 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.83 %
+Other        27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
 ```
 
 <!--END_SECTION:waka-->
