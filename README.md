@@ -201,14 +201,14 @@ Click [here](https://github.com/Open-Machine/Organization-README) to learn more.
   <!--START_SECTION:waka-->
 
 ```text
-From: 25 April 2022 - To: 02 May 2022
+From: 26 April 2022 - To: 03 May 2022
 
-TypeScript   10 hrs 51 mins  ██████████▒░░░░░░░░░░░░░░   40.85 %
-C            6 hrs 38 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.96 %
-Dart         2 hrs 23 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.98 %
-Docker       2 hrs 9 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 %
-JSON         1 hr 32 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
-Bash         1 hr 2 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
+TypeScript   12 hrs 41 mins  ███████████▓░░░░░░░░░░░░░   46.88 %
+C            3 hrs 20 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.37 %
+Docker       3 hrs 10 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.72 %
+Dart         2 hrs 39 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.82 %
+JSON         2 hrs 5 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 %
+Markdown     59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
 ```
 
 <!--END_SECTION:waka-->
