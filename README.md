@@ -201,14 +201,14 @@ Click [here](https://github.com/Open-Machine/Organization-README) to learn more.
   <!--START_SECTION:waka-->
 
 ```text
-From: 26 May 2022 - To: 02 June 2022
+From: 27 May 2022 - To: 03 June 2022
 
-Dart         16 hrs 1 min    ████████████▓░░░░░░░░░░░░   50.86 %
-Go           9 hrs 57 mins   ████████░░░░░░░░░░░░░░░░░   31.60 %
-TeX          2 hrs 23 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 %
-Markdown     44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
-Bash         40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
-YAML         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+Dart         15 hrs 40 mins  █████████████▒░░░░░░░░░░░   52.69 %
+Go           9 hrs 59 mins   ████████▒░░░░░░░░░░░░░░░░   33.56 %
+TeX          2 hrs 23 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 %
+Bash         25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+Groovy       17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+XML          14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
 ```
 
 <!--END_SECTION:waka-->
