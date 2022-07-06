@@ -201,14 +201,14 @@ Click [here](https://github.com/Open-Machine/Organization-README) to learn more.
   <!--START_SECTION:waka-->
 
 ```text
-From: 27 June 2022 - To: 04 July 2022
+From: 28 June 2022 - To: 05 July 2022
 
-TeX          3 hrs 15 mins   ████████░░░░░░░░░░░░░░░░░   32.57 %
-Dart         2 hrs 28 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.77 %
-TypeScript   1 hr 42 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.03 %
-SQL          1 hr 40 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.67 %
-Cypher       20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
-Other        19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
+TypeScript   2 hrs 19 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.89 %
+Dart         2 hrs 15 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.99 %
+SQL          1 hr 40 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.29 %
+TeX          1 hr 36 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.51 %
+Cypher       20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
+Other        12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
 ```
 
 <!--END_SECTION:waka-->
