@@ -201,11 +201,11 @@ Click [here](https://github.com/Open-Machine/Organization-README) to learn more.
   <!--START_SECTION:waka-->
 
 ```text
-From: 09 July 2022 - To: 16 July 2022
+From: 10 July 2022 - To: 17 July 2022
 
-TypeScript   12 hrs 34 mins  ██████████████▓░░░░░░░░░░   59.02 %
-Dart         6 hrs 31 mins   ███████▓░░░░░░░░░░░░░░░░░   30.59 %
-Other        1 hr 22 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 %
+TypeScript   8 hrs 48 mins   ████████████████░░░░░░░░░   64.50 %
+Dart         3 hrs 22 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.72 %
+Other        41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
 ```
 
 <!--END_SECTION:waka-->
