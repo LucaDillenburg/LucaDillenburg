@@ -2,27 +2,27 @@
 
 ## I'm a Full-Stack developer and Entrepreneur!
 
-- 🥅 2021 Goals:
+- ⌘ **2022 Goals**:
   - Create the best delivery app to eat vegan or vegetarian food
-  - [x] Learn to skydive
-- 🌱 I’m currently learning Design, Management and Entrepreneurship
-- 👯 I’m looking to collaborate with other entrepreneurs and fullstack devs
-- 💬 Ask me about entrepreneurship, Flutter, Firebase, and GoLang
-- ⚡ Fun facts: I believe in Christ, I am vegetarian and I love extreme sports
+  - Learn to Surf
+- I’m currently learning: Design, Management and Entrepreneurship
+- I’m looking to collaborate with: entrepreneurs and fullstack devs
+- Fun facts: I love extreme sports
 
 <br/>
 
-## :fireworks: Works I'm most proud of
+## Works I'm most proud of
 
 <details>
-  <summary>:green_heart: <b><i>Legumo</b></i>: the delivery app to eat vegan or vegetarian food </summary>
+  <summary><b>Legumo</b>: the delivery app to eat vegan or vegetarian food </summary>
   
   - Instagram: [@legumo.app](https://instagram.com/legumo.app)
   - Site: [https://legumo.com.br](https://legumo.com.br)
+  - Download: [Play Store](https://play.google.com/store/apps/details?id=br.com.legumo) e [App Store](https://apps.apple.com/br/app/legumo/id1589305379?l=en)
 </details>
 
 <details>
-  <summary>🎨 <b><i>Colorblind Toolset</b></i> </summary>
+  <summary><b>Colorblind Toolset</b>: android app for colorblinds </summary>
 
 ## Summary
 *Colorblind Toolset* is a mobile application with several tools that target the most common colorblind problems in their daily lives.
@@ -99,7 +99,7 @@ It was developed for all color blindness types.
 </details>
 
 <details>
-  <summary>:gun: <b><i>2D Engine for Fire Games</b></i>: developed from scratch and supports many geometric shapes</summary>
+  <summary><b>2D Engine for Fire Games</b>: developed from scratch and supports many geometric shapes</summary>
 
 ## Summary
 Engine para for 2D top-down gun games. It supports colisions between any polygon without curved sides. It also has follower objects (i.e.: guided missiles) and super powers such as slow down time and freeze enemies.
@@ -112,7 +112,7 @@ Engine para for 2D top-down gun games. It supports colisions between any polygon
 </details>
 
 <details>
-  <summary>:computer: <b><i>Open Machine</b></i> (WIP) - an Open-Source computer</summary>
+  <summary><b>Open Machine</b>: a simple open-source computer</summary>
 
 <br/>
 
@@ -147,51 +147,39 @@ Click [here](https://github.com/Open-Machine/Organization-README) to learn more.
 </details>
 
 <details>
-  <summary>✍🏻 <b><i>Article</b></i>: Programming tips from a not yet experienced programmer</summary>
+  <summary><b>Article</b>: Programming tips from a not yet experienced programmer</summary>
 <a href="https://medium.com/@luca.assumpcao.dillenburg/programming-tips-from-a-not-yet-experienced-programmer-754623ce28ae" target="_blank"><img src="https://medium.com/@luca.assumpcao.dillenburg/programming-tips-from-a-not-yet-experienced-programmer-754623ce28ae" alt="Programming tips from a not yet experienced programmer"></a>
 </details>
 
 <br/>
 
-### 🧭 Preffered Languages and Tools
+### Preffered Languages and Tools
 
-<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
-<img align="left" alt="GoLang" width="26px" src="https://raw.githubusercontent.com/LucaDillenburg/LucaDillenburg/master/media/golang.png" />
-<img align="left" alt="Spark" width="26px" src="https://raw.githubusercontent.com/LucaDillenburg/LucaDillenburg/master/media/spark.png" />
-<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
-<img align="left" alt="Figma" width="26px" src="https://raw.githubusercontent.com/LucaDillenburg/LucaDillenburg/master/media/figma.png" />
+<img align="left" alt="Flutter" width="26px" src="./icons/flutter.svg" />
+<img align="left" alt="Flutter" width="26px" src="./icons/typescript.svg" />
+<img align="left" alt="GoLang" width="26px" src="./icons/go.svg" />
+<img align="left" alt="Firebase" width="26px" src="./icons/firebase.svg" />
+<img align="left" alt="Figma" width="26px" src="./icons/figma.svg" />
 
 <!-- <i>Also some experience with: MySQL, MongoDB, Nodejs and Nextjs.</i> -->
 
 <br />
 <br/>
 
-### 🗣️ Connect with me
+### Connect with me
 
-<a target="_blank" href="https://twitter.com/lucadillenburg">
-  <img align="left" alt="@lucadilleburg | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a target="_blank" href="https://api.whatsapp.com/send?phone=5519991298440">
+  <img align="left" alt="Luca Dillenburg | Whatsapp" width="22px" src="./icons/whatsapp.svg" />
 </a>
 
 <a target="_blank" href="https://linkedin.com/in/luca-dillenburg">
-  <img align="left" alt="Luca Dillenburg | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Luca Dillenburg | LinkedIn" width="22px" src="./icons/linkedin.svg" />
 </a>
 
-<a target="_blank" href="https://instagram.com/LucaDillenburg">
-  <img align="left" alt="Luca Dillenburg | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a target="_blank" href="https://twitter.com/lucadillenburg">
+  <img align="left" alt="@lucadilleburg | Twitter" width="22px" src="./icons/twitter.svg" />
 </a>
 
 <a target="_blank" href="mailto: luca.assumpcao.dillenburg@gmail.com">
-  <img align="left" alt="luca.assumpcao.dillenburg@gmail.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" alt="luca.assumpcao.dillenburg@gmail.com" width="22px" src="./icons/gmail.svg" />
 </a>
-
-<br/>
-<br/>
-<br/>
-
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="LucaDillenburg's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LucaDillenburg&show_icons=true&hide_border=true&count_private=true" />
-
-  <br/>
-</details>
