@@ -10,7 +10,7 @@
 - 💬 Ask me about entrepreneurship, Flutter, Firebase, and GoLang
 - ⚡ Fun facts: I believe in Christ, I am vegetarian and I love extreme sports
 
----
+<br/>
 
 ## :fireworks: Works I'm most proud of
 
@@ -146,16 +146,12 @@ Click [here](https://github.com/Open-Machine/Organization-README) to learn more.
 
 </details>
 
----
+<details>
+  <summary>✍🏻 <b><i>Article</b></i>: Programming tips from a not yet experienced programmer</summary>
+<a href="https://medium.com/@luca.assumpcao.dillenburg/programming-tips-from-a-not-yet-experienced-programmer-754623ce28ae" target="_blank"><img src="https://medium.com/@luca.assumpcao.dillenburg/programming-tips-from-a-not-yet-experienced-programmer-754623ce28ae" alt="Programming tips from a not yet experienced programmer"></a>
+</details>
 
-### 📕 Articles
-- *Latest Article*
-
-  <a href="https://github-readme-medium-recent-article.vercel.app/medium/@luca.assumpcao.dillenburg/0" target="_blank"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@luca.assumpcao.dillenburg/0" alt="Recent Article 0"></a>
-
-- *Check out all articles [here](https://medium.com/@luca.assumpcao.dillenburg)*
-
----
+<br/>
 
 ### 🧭 Preffered Languages and Tools
 
@@ -168,8 +164,7 @@ Click [here](https://github.com/Open-Machine/Organization-README) to learn more.
 <!-- <i>Also some experience with: MySQL, MongoDB, Nodejs and Nextjs.</i> -->
 
 <br />
-
----
+<br/>
 
 ### 🗣️ Connect with me
 
@@ -191,26 +186,7 @@ Click [here](https://github.com/Open-Machine/Organization-README) to learn more.
 
 <br/>
 <br/>
-
----
-
-<details>
-  <summary>⏱️ Weekly Time Spent</summary>
-
-  ### This week I spent my time on:
-  <!--START_SECTION:waka-->
-
-```text
-From: 30 July 2022 - To: 06 August 2022
-
-Dart         10 hrs 26 mins  ███████████▒░░░░░░░░░░░░░   45.28 %
-TypeScript   9 hrs 41 mins   ██████████▓░░░░░░░░░░░░░░   42.01 %
-Other        2 hrs 3 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.92 %
-```
-
-<!--END_SECTION:waka-->
-  <br/>
-</details>
+<br/>
 
 <details>
   <summary>:zap: Github Stats</summary>
