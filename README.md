@@ -1,15 +1,21 @@
-<h1 style="text-align: center">Hi there, I'm Luca Dillenburg <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/></h1>
-
 <img src="https://raw.githubusercontent.com/LucaDillenburg/LucaDillenburg/master/media/Banner.png" alt="Design & Development for startups">
 
-## About Me
-I'm an entrepreneur and fullstack developer!
-- My goal in 2023 is to build a susteinable development team for startups and small businesses
-- I’m currently learning design and entrepreneurship
-- I’m looking to collaborate with entrepreneurs and fullstack devs.
-- Fun fact: I am a skydiver on the weekends
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34px"/> Hi there, I'm Luca Dillenburg &#8198;&#8198;&#8198; <a target="_blank" href="https://linkedin.com/in/luca-dillenburg"><img alt="Luca Dillenburg | LinkedIn" width="24px" src="./icons/linkedin.svg" /></a> &#8198; <a target="_blank" href="mailto: luca.assumpcao.dillenburg@gmail.com"><img alt="luca.assumpcao.dillenburg@gmail.com" width="24px" src="./icons/gmail.svg" /></a> &#8198; <a target="_blank" href="https://api.whatsapp.com/send?phone=5519991298440"><img width="24px"  alt="Luca Dillenburg | Whatsapp" src="./icons/whatsapp.svg" /></a>
 
-<br/>
+I'm an entrepreneur and fullstack developer and I’m learning design. <br/>
+My goal in 2023 is to build a susteinable development team for startups and small businesses. <br/>
+I’m looking to collaborate with entrepreneurs and fullstack devs.
+
+## Preffered Languages and Tools
+
+<img align="left" alt="Flutter" width="26px" src="./icons/flutter.svg" />
+<img align="left" alt="Flutter" width="26px" src="./icons/typescript.svg" />
+<img align="left" alt="GoLang" width="26px" src="./icons/go.svg" />
+<img align="left" alt="Firebase" width="26px" src="./icons/firebase.svg" />
+<img align="left" alt="Figma" width="26px" src="./icons/figma.svg" />
+<!-- <i>Also some experience with: MySQL, MongoDB, Nodejs and Nextjs.</i> -->
+
+<br/><br/>
 
 ## Works I'm most proud of
 
@@ -152,34 +158,3 @@ Click [here](https://github.com/Open-Machine/Organization-README) to learn more.
 </details>
 
 <br/>
-
-### Preffered Languages and Tools
-
-<img align="left" alt="Flutter" width="26px" src="./icons/flutter.svg" />
-<img align="left" alt="Flutter" width="26px" src="./icons/typescript.svg" />
-<img align="left" alt="GoLang" width="26px" src="./icons/go.svg" />
-<img align="left" alt="Firebase" width="26px" src="./icons/firebase.svg" />
-<img align="left" alt="Figma" width="26px" src="./icons/figma.svg" />
-
-<!-- <i>Also some experience with: MySQL, MongoDB, Nodejs and Nextjs.</i> -->
-
-<br />
-<br/>
-
-### Connect with me
-
-<a target="_blank" href="https://api.whatsapp.com/send?phone=5519991298440">
-  <img align="left" alt="Luca Dillenburg | Whatsapp" width="22px" src="./icons/whatsapp.svg" />
-</a>
-
-<a target="_blank" href="https://linkedin.com/in/luca-dillenburg">
-  <img align="left" alt="Luca Dillenburg | LinkedIn" width="22px" src="./icons/linkedin.svg" />
-</a>
-
-<a target="_blank" href="https://twitter.com/lucadillenburg">
-  <img align="left" alt="@lucadilleburg | Twitter" width="22px" src="./icons/twitter.svg" />
-</a>
-
-<a target="_blank" href="mailto: luca.assumpcao.dillenburg@gmail.com">
-  <img align="left" alt="luca.assumpcao.dillenburg@gmail.com" width="22px" src="./icons/gmail.svg" />
-</a>
