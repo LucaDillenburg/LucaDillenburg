@@ -44,8 +44,6 @@
 
 ---
 
-<br/>
-
 ## 👨🏻‍💻 Works I'm most proud of
 
 <details>
@@ -185,3 +183,7 @@ Click [here](https://github.com/Open-Machine/Organization-README) to learn more.
   <summary><b>Article</b>: Programming tips from a not yet experienced programmer</summary>
 <a href="https://medium.com/@luca.assumpcao.dillenburg/programming-tips-from-a-not-yet-experienced-programmer-754623ce28ae" target="_blank"><img src="https://medium.com/@luca.assumpcao.dillenburg/programming-tips-from-a-not-yet-experienced-programmer-754623ce28ae" alt="Programming tips from a not yet experienced programmer"></a>
 </details>
+
+<br/>
+
+## 👇🏻 Checkout my repos:
