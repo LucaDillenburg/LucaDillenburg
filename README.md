@@ -1,23 +1,52 @@
 <img src="https://raw.githubusercontent.com/LucaDillenburg/LucaDillenburg/master/media/Banner.png" alt="Design & Development for startups">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34px"/> Hi there, I'm Luca Dillenburg &#8198;&#8198;&#8198; <a target="_blank" href="https://linkedin.com/in/luca-dillenburg"><img alt="Luca Dillenburg | LinkedIn" width="24px" src="./icons/linkedin.svg" /></a> &#8198; <a target="_blank" href="mailto: luca.assumpcao.dillenburg@gmail.com"><img alt="luca.assumpcao.dillenburg@gmail.com" width="24px" src="./icons/gmail.svg" /></a> &#8198; <a target="_blank" href="https://api.whatsapp.com/send?phone=5519991298440"><img width="24px"  alt="Luca Dillenburg | Whatsapp" src="./icons/whatsapp.svg" /></a>
+<h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34px"/> Hi there, I'm Luca Dillenburg &#8198;&#8198;&#8198;</h1>
 
-I'm an entrepreneur and fullstack developer and I’m learning design. <br/>
-My goal in 2023 is to build a susteinable development team for startups and small businesses. <br/>
-I’m looking to collaborate with entrepreneurs and fullstack devs.
+<p align="center">
+  I'm an entrepreneur and fullstack developer and I’m learning design. <br/>
+  My goal in 2023 is to build a susteinable development team for startups and small businesses. <br/>
+  I’m looking to collaborate with entrepreneurs and fullstack devs.
+</p>
 
-## Preffered Languages and Tools
+<br/>
 
-<img align="left" alt="Flutter" width="26px" src="./icons/flutter.svg" />
-<img align="left" alt="Flutter" width="26px" src="./icons/typescript.svg" />
-<img align="left" alt="GoLang" width="26px" src="./icons/go.svg" />
-<img align="left" alt="Firebase" width="26px" src="./icons/firebase.svg" />
-<img align="left" alt="Figma" width="26px" src="./icons/figma.svg" />
-<!-- <i>Also some experience with: MySQL, MongoDB, Nodejs and Nextjs.</i> -->
+<h2 align="center"> ⛏️ Languages and Tools </h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/flutter%20-02569B?style=for-the-badge&logo=flutter&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/react%20-1c2c4c.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/tailwind%20-06B6D4.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/css%20-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/figma%20-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" />&nbsp;&nbsp;&nbsp;
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/golang%20-00ADD8.svg?&style=for-the-badge&logo=go&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/prisma%20-173147.svg?&style=for-the-badge&logo=prisma&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL%20-4169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/mongoDB%20-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;&nbsp;
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS%20-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/GCP%20-4285F4.svg?&style=for-the-badge&logo=googlecloud&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/firebase%20-F57C00.svg?&style=for-the-badge&logo=firebase&logoColor=white" />&nbsp;&nbsp;&nbsp;
+</p>
 
-<br/><br/>
+<br/>
 
-## Works I'm most proud of
+<h2  align="center">📫 Reach me on</h2>
+<p align="center">
+  <a target="_blank"href="http://linkedin.com/in/luca-dillenburg/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:luca.assumpcao.dillenburg@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://api.whatsapp.com/send?phone=5519991298440&text=Hello%20Luca!"><img src="https://img.shields.io/badge/whatsapp-49A05E.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</p>
+
+<br/>
+
+---
+
+<br/>
+
+## 👨🏻‍💻 Works I'm most proud of
 
 <details>
   <summary><b>Legumo</b>: the delivery app to eat vegan or vegetarian food </summary>
@@ -156,5 +185,3 @@ Click [here](https://github.com/Open-Machine/Organization-README) to learn more.
   <summary><b>Article</b>: Programming tips from a not yet experienced programmer</summary>
 <a href="https://medium.com/@luca.assumpcao.dillenburg/programming-tips-from-a-not-yet-experienced-programmer-754623ce28ae" target="_blank"><img src="https://medium.com/@luca.assumpcao.dillenburg/programming-tips-from-a-not-yet-experienced-programmer-754623ce28ae" alt="Programming tips from a not yet experienced programmer"></a>
 </details>
-
-<br/>
