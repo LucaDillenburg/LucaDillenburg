@@ -1,13 +1,13 @@
-### Hi there, I'm Luca Dillenburg <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <a href="https://twitter.com/intent/follow?screen_name=lucadillenburg"><img align="right" src="https://img.shields.io/twitter/follow/lucadillenburg?style=social&logo=twitter" alt="follow on Twitter"></a> <a href="https://github.com/LucaDillenburg/"><img align="right" src="https://img.shields.io/github/followers/lucadillenburg?style=social&logo=github" alt="follow on Github"></a>
+<h1 style="text-align: center">Hi there, I'm Luca Dillenburg <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/></h1>
 
-## I'm a Full-Stack developer and Entrepreneur!
+<img src="https://raw.githubusercontent.com/LucaDillenburg/LucaDillenburg/master/media/Banner.png" alt="Design & Development for startups">
 
-- ⌘ **2022 Goals**:
-  - Create the best delivery app to eat vegan or vegetarian food
-  - Learn to Surf
-- I’m currently learning: Design, Management and Entrepreneurship
-- I’m looking to collaborate with: entrepreneurs and fullstack devs
-- Fun facts: I love extreme sports
+## About Me
+I'm an entrepreneur and fullstack developer!
+- My goal in 2023 is to build a susteinable development team for startups and small businesses
+- I’m currently learning design and entrepreneurship
+- I’m looking to collaborate with entrepreneurs and fullstack devs.
+- Fun fact: I am a skydiver on the weekends
 
 <br/>
 
