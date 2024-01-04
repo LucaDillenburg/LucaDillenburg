@@ -3,8 +3,8 @@
 <h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34px"/> Hi there, I'm Luca Dillenburg &#8198;&#8198;&#8198;</h1>
 
 <p align="center">
-  I'm an entrepreneur and fullstack developer and I’m learning design. <br/>
-  My goal in 2023 is to build a susteinable development team for startups and small businesses. <br/>
+  I'm an entrepreneur, designer and fullstack developer. <br/>
+  I am building a team of extremely agile developers for startups and small businesses called [Beyond the Bytes](https://beyondthebytes.com.br). <br/>
   I’m looking to collaborate with entrepreneurs and fullstack devs.
 </p>
 
