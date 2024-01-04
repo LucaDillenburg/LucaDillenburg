@@ -4,7 +4,7 @@
 
 <p align="center">
   I'm an entrepreneur, designer and fullstack developer. <br/>
-  I am building a team of extremely agile developers for startups and small businesses called [Beyond the Bytes](https://beyondthebytes.com.br). <br/>
+  I am building a team of extremely agile developers for startups and small businesses - <a href="https://beyondthebytes.com.br">Beyond the Bytes</a>. <br/>
   I’m looking to collaborate with entrepreneurs and fullstack devs.
 </p>
 
