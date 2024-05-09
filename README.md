@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/LucaDillenburg/LucaDillenburg/master/media/Banner.png" alt="Design & Development for startups">
+<img src="https://raw.githubusercontent.com/LucaDillenburg/LucaDillenburg/master/media/Banner.png" alt="Beyond the Bytes">
 
 <h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34px"/> Hi there, I'm Luca Dillenburg &#8198;&#8198;&#8198;</h1>
 
